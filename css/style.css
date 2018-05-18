@@ -143,6 +143,6 @@ footer{
 a{
 	text-decoration: none;
 }
-@media only screen and (max-width: 800px) { 
+@media only screen and (max-width: 1334px) { 
      /*For mobile phones:*/ 
 }
