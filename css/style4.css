@@ -1,0 +1,112 @@
+html{
+	font-family:courier new;
+}
+.top{
+	background-color:black;
+	height:150px;
+	text-align:center;
+}
+.champions{
+	background-size: 47px;
+	background-color: #29ABE2;
+	color:white;
+	text-align:center;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+	text-decoration: none;
+}
+.about{
+	background-size: 47px;
+	background-color: #29ABE2;
+	text-align:center;
+	color:black;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+	text-decoration: none;
+}
+.logo{
+	float:left;
+	clear:right;
+	margin:10px;
+}
+#ab{
+	margin:100px;
+}
+.aboutme{
+	text-align:center;
+	background-color:#0071BC;
+	color:white;
+	height:75px;
+	border:solid black 1px;
+	position:relative;
+	top:-21px;
+}
+.update{
+	position:relative;
+	top:-43px;
+}
+.wrapper{
+	background-color:#29ABE2;
+	height:1600px;
+	position: relative;
+	top:-47px;
+	border:solid black 1px;
+}
+.aboutme2{
+	color:white;
+	margin-right:200px;
+	margin-left:70px;
+	position:relative;
+	top:+50px;
+}
+.server{
+	margin:70px;
+	position:relative;
+	top:+200px;
+	color:white;
+}
+.na{
+	float:left;
+}
+.og1{
+	margin:70px;
+	position:relative;
+	top:+500px;
+	color:white;
+	left:-160px;
+}
+.og2{
+	margin:70px;
+	position:relative;
+	top:+800px;
+	color:white;
+	left:-430px;
+}
+.clearfix:after{
+	content: “.”;
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.yi{
+	margin-right:70px;
+	float:left;
+}
+#yi{
+	position:relative;
+	top:+100px;
+}
+footer{
+	background-color: #0071BC;
+	text-align: center;
+	height:70px;
+	position:relative;
+	top:-85px;
+	border: solid black 2px;
+	padding:10px;
+}

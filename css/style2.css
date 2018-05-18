@@ -1,0 +1,81 @@
+html{
+	font-family:courier new;
+}
+.top{
+	background-color:black;
+	height:150px;
+	text-align:center;
+}
+.logo{
+	float:left;
+	clear:right;
+	margin:10px;
+}
+#ab{
+	margin:100px;
+}
+.champions{
+	background-size: 47px;
+	background-color: #29ABE2;
+	color:white;
+	text-align:center;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+	text-decoration: none;
+}
+.champions2{
+	background-size: 47px;
+	background-color: #29ABE2;
+	text-align:center;
+	color:black;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+	text-decoration: none;
+}
+.basics{
+	text-align:center;
+	background-color:#0071BC;
+	color:white;
+	height:75px;
+	border:solid black 1px;
+	position:relative;
+	top:-21px;
+}
+.control{
+	background-color:#29ABE2;
+	position:relative;
+	top:-43px;
+	border:solid black 3px;
+	color:white;
+}
+#h3{
+	margin-left: 20px;
+}
+#p{
+	padding: 20px;
+}
+h2{
+	margin-left: 20px
+}
+h3{
+	margin-left: 20px
+}
+h4{
+	margin-left: 20px
+}
+img{
+	margin-left: 20px
+}
+footer{
+	background-color: #0071BC;
+	text-align: center;
+	height:70px;
+	position:relative;
+	top:-50px;
+	border: solid black 2px;
+	padding:10px;
+}

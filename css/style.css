@@ -1,0 +1,145 @@
+html{
+	font-family: courier new
+}
+.learn{
+	background-color:#29ABE2; 
+	height:170px;
+	border:solid black;
+}
+.apply{
+	color:white;
+	font-size: 30pt;
+	text-align: right;
+	float:right;
+	clear:left;
+	margin-right: 30px;
+}
+.basics{
+	background-color:black;
+	height:90px;
+	text-align:center;
+}
+.clearfix:after{
+	content: “.”;
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+.champions{
+	background-size: 47px;
+	background-color: #29ABE2;
+	color:white;
+	text-align:center;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+}
+.home{
+	text-align:center;
+	background-color:#0071BC;
+	color:white;
+	height:75px;
+	border:solid black 1px;
+	position:relative;
+	top:-22px;
+}
+.what{
+	color:white;
+	background-color: #29ABE2;
+	text-align:center;
+	height:75px;
+	border:solid black 1px;
+	position: relative;
+	top:-45px;
+}
+#game1{
+	background-color:#29ABE2;
+	height:472px;
+	border:solid black 2px;
+
+}
+.game1{
+	background-color:#0071BC;
+	width:585px; 
+	margin:40px;
+	padding:20px;
+	position: relative; 
+	top: +100px; 
+}
+.game2{
+	background-color:#0071BC;
+	width:585px; 
+	margin:40px;
+	padding:20px;
+	position: relative; 
+	top: -90px; 
+}
+.game3{
+	background-color:#0071BC;
+	width:585px; 
+	margin:40px;
+	padding:20px;
+	position: relative; 
+	top: -280px; 
+}
+.column {
+    float: right;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column2{
+	float:left;
+}
+#lol{
+	float:right;
+	clear:left;
+	margin:40px;
+}
+article{
+	clear:right;
+}
+#ab{
+	margin:150px;
+}
+.wrapper{
+	background-color:#29ABE2;
+	height:1700px;
+	position:relative;
+	top:-85px;
+}
+.t-image {
+    position: relative /* Declared position allows for location changes */
+    top: -2px; /* Moves the image 2px closer to the top of the page */
+}
+.imagestyle1 { 
+	position: relative; 
+	top: -250px; 
+}
+.imagestyle2{
+	position: relative; 
+	top: -600px;
+}
+.imagestyle3{
+	position: relative; 
+	top: -650px;
+}
+footer{
+	background-color: #0071BC;
+	text-align: center;
+	height:70px;
+	position:relative;
+	top:-85px;
+	border: solid black 2px;
+	padding:10px;
+}
+a{
+	text-decoration: none;
+}

@@ -1,0 +1,201 @@
+html{
+	font-family:courier new;
+}
+.top{
+	background-color:black;
+	height:150px;
+	text-align:center;
+}
+.champions{
+	background-size: 47px;
+	background-color: #29ABE2;
+	color:white;
+	text-align:center;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+	text-decoration: none;
+}
+.champions2{
+	background-size: 47px;
+	background-color: #29ABE2;
+	text-align:center;
+	color:black;
+	height:47px;
+	padding:15px;
+	position:relative;
+	top:+30px;
+	text-decoration: none;
+}
+.logo{
+	float:left;
+	clear:right;
+	margin:10px;
+}
+#ab{
+	margin:100px;
+}
+.ab{
+	margin:20px;
+	margin-right:25px;
+	color:white;
+}
+.champions3{
+	text-align:center;
+	background-color:#0071BC;
+	color:white;
+	height:75px;
+	border:solid black 1px;
+	position:relative;
+	top:-21px;
+}
+.who{
+	color:white;
+	position:relative;
+	top:-45px;
+	background-color: black;
+	width:100%;
+	text-align: center;
+	height:60px;
+}
+
+.imagestyle1{
+	float:right;
+	clear:left;
+	margin:0px;
+	position: relative;
+	top:-525px;
+}
+#who{
+	background-color: #4597CE;
+	height:480px;
+	position:relative;
+	width:36%;
+}
+.roles{
+	text-align:center;
+	background-color:#0071BC;
+	color:white;
+	height:75px;
+	border:solid black 1px;
+	position:relative;
+	top:-30px;
+}
+.assassin{
+	background-color:#4597CE;
+	height:500px;
+	padding:30px;
+	border:solid black 1px;
+	color:white;
+	position:relative;
+	top:-50px;
+}
+.assassin2{
+	position:relative;
+	top:-400px;
+	padding:250px;
+}
+.assassin3{
+	position:relative;
+	left:+30px;
+}
+.fighter{
+	background-color:#4597CE;
+	height:500px;
+	padding:30px;
+	border:solid black 1px;
+	color:white;
+	position:relative;
+	top:-50px;
+}
+.fighter2{
+	position:relative;
+	top:-400px;
+	padding:250px;
+}
+.fighter3{
+	position:relative;
+	left:+45px;
+}
+.mage{
+	background-color:#4597CE;
+	height:500px;
+	padding:30px;
+	border:solid black 1px;
+	color:white;
+	position:relative;
+	top:-50px;
+}
+.mage2{
+	position:relative;
+	top:-400px;
+	padding:250px;
+}
+.mage3{
+	position:relative;
+	left:+60px;
+}
+.tank{
+	background-color:#4597CE;
+	height:500px;
+	padding:30px;
+	border:solid black 1px;
+	color:white;
+	position:relative;
+	top:-50px;
+}
+.tank2{
+	position:relative;
+	top:-400px;
+	padding:250px;
+}
+.tank3{
+	position:relative;
+	left:+60px;
+}
+.marksman{
+	background-color:#4597CE;
+	height:500px;
+	padding:30px;
+	border:solid black 1px;
+	color:white;
+	position:relative;
+	top:-50px;
+}
+.marksman2{
+	position:relative;
+	top:-400px;
+	padding:250px;
+}
+.marksman3{
+	position:relative;
+	left:+30px;
+}
+.support{
+	background-color:#4597CE;
+	height:500px;
+	padding:30px;
+	border:solid black 1px;
+	color:white;
+	position:relative;
+	top:-50px;
+}
+.support2{
+	position:relative;
+	top:-400px;
+	padding:250px;
+}
+.support3{
+	position:relative;
+	left:+45px;
+}
+footer{
+	background-color: #0071BC;
+	text-align: center;
+	height:70px;
+	position:relative;
+	top:-85px;
+	border: solid black 2px;
+	padding:10px;
+}
